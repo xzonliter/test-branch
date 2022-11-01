@@ -2,5 +2,10 @@ first edition
 second edition
 Third edition
 issue resolved
+<<<<<< HEAD
+hotfix my solution
+======
+Hotfix team's solution
+>>>>>>origin/master
 
 
